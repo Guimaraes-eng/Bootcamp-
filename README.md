@@ -6,8 +6,11 @@ Caro professor, este trabalho estou desenvolvendo desde o inicio do mes 4; na ma
 Espero que goste!
 
 Quando terminar de fazer a avaliação, peço que me diga sua opinião sincera no que posso melhorar neste projeto!
+
 Objetivo: Medir os afluentes do rio principal (RS)
+
 Porque? 
+
 Bacias Hidrográficas: Muitos rios do estado (como Taquari, Caí, Sinos, Gravataí e Jacuí) convergem para o Delta do Jacuí e, em seguida, para o Lago Guaíba, em Porto Alegre. Quando todos os afluentes transbordam ao mesmo tempo, cria-se um "efeito funil" na capital e região metropolitana, elevando o nível do Guaíba a marcas históricas.
 Para que serve: Evitar perdas humanas e econômicas, segurando a inflação nas cidades.
 Evitar perdas humanas: O desastre de 2024 passa a contabilizar nos danos humanos 185 óbitos e 23 pessoas desaparecidas.
